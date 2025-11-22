@@ -1,9 +1,9 @@
-<!-- Logo (replace with GitHub-hosted path if needed) -->
+<!-- Logo (dark-theme friendly; replace if needed) -->
 <p align="center">
   <img src="https://gjangra.uiblock.in/favicon.svg" width="120" alt="Logo" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#4F46E5;">Gulshan Jangra</span> 👋</h1>
+<h1 align="center" style="color:#8AB4F8;">Hi, I'm <b>Gulshan Jangra</b> 👋</h1>
 <p align="center">
   <b>Senior Frontend Engineer • React & Next.js • UI Engineering • Design Systems</b>
 </p>
@@ -81,28 +81,28 @@ Python • Node.js • MySQL • AWS • Docker
 
 ---
 
-## 📚 Education
-**B.Tech (CSE)** – Kurukshetra University, JMIT Radaur  
-**Higher Secondary** – Delhi Public School, Hisar  
-
----
-
 ## 🎯 Interests
-🎨 Arts & Crafts • ✍️ Sketching • 📖 Manga & Anime • 🧩 Frontend LLD  
+🎨 Arts & Crafts • ✍️ Sketching • 📖 Manga & Anime
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:gulshan.jangra008@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/gjangra"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/code-gj"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge"/></a>
+  <a href="mailto:gulshan.jangra008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gjangra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/code-gj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=code-gj&theme=tokyonight" />
