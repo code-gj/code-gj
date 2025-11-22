@@ -1,112 +1,76 @@
-<!-- Banner / Logo (replace with your GitHub-hosted logo) -->
-<p align="center">
-  <img src="https://custom-hook-docs-hge5.vercel.app/logo.svg" width="120" alt="Logo" />
-</p>
-
-<h1 align="center">Hi, I'm <span style="color:#4F46E5;">Gulshan Jangra</span> 👋</h1>
-<p align="center">
-  <b>Senior Frontend Engineer • React & Next.js • UI Engineering • Design Systems</b>
-</p>
-
 ---
 
 ## 🎨 About Me
 
-I'm a **Senior Software Engineer (SDE-II)** currently working at **Blinkit**, building  
-high-performance dashboards, scalable UI platforms, and frontend architectures that  
-process **₹25 Cr+ of financial data daily** and power mission-critical business workflows.  [oai_citation:1‡Gulshan.pdf](sediment://file_00000000335c720987735882628aaee4)
+I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, specializing in architecting reliable dashboards, resilient frontend systems, and scalable UI platforms that streamline finance and operational processes across the organization.
 
-I specialize in:
+I focus on solving complex UI problems through:
 
-- ⚛️ **React, Next.js, TypeScript**  
-- 🧠 **Architecture, Low-Level Design, Dashboards, State Management**  
-- 🧩 **Design Systems, Component Libraries, Frontend Tooling**  
-- ⚡ **High-performance UI, Web Optimization & UI Scalability**
+- ⚛️ **React, Next.js, TypeScript**
+- 🧠 **Frontend Architecture & Low-Level Design**
+- 🧩 **Reusable Component Systems & UI Platforms**
+- ⚡ **High-performance UI & Web Optimization**
 
-I love transforming complex product requirements into **clean, reliable, scalable frontend systems**.
+I enjoy building robust systems that balance performance, usability, and maintainability.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 **@uiblock/custom-hook**
+### 📦 **@uiblock/hooks**
 A modern, production-ready collection of reusable **React custom hooks** built with TypeScript.  
-🌐 **Docs:** https://custom-hook-docs-hge5.vercel.app  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/custom-hook
+🌐 **Docs:** https://hooks.uiblock.in  
+📦 **NPM:** https://www.npmjs.com/package/@uiblock/hooks
 
 ---
 
 ### 🎛 **UIBlock – React Component Library**  
-A flexible, scalable component library built using **TypeScript + TailwindCSS** for building beautiful UIs.  
-🔗 https://uiblock.in
+A flexible, scalable component library designed with **TypeScript + TailwindCSS** to build modern and accessible UIs.  
+🌐 **Docs:** https://uiblock.in  
+📦 **NPM:** https://www.npmjs.com/package/@uiblock/ui
 
 ---
 
-### ✍️ **Low-Level Design in Frontend – Article**  
-A complete guide on LLD for frontend engineers, covering real-world examples & templates.  
+### ✍️ **Low-Level Design in Frontend — Article**  
+A comprehensive guide to LLD for frontend developers, with real-world examples and practical templates.  
 🔗 https://medium.com/@uisculptor/low-level-design-lld-in-frontend-development-a-complete-guide-with-examples-b3bbcb36139a
 
 ---
 
 ## 💼 Work Experience
 
-### 🟣 **Blinkit — SDE II (Feb 2023 – Present)**  
-**FinOpsHub (Flagship Project)**  [oai_citation:2‡Gulshan.pdf](sediment://file_00000000335c720987735882628aaee4)  
-- Built the entire FinOps dashboard from scratch using **Next.js + React Query**  
-- Platform processes **₹25 Cr+ invoices every day** (~₹2000 Cr to date)  
-- Reduced average processing time per invoice to **< 45 seconds**  
-- Implemented RBAC, secure authentication & multi-team workflows  
-- Automated manual finance operations into a **unified, auditable platform**
+### 🟣 **Blinkit — SDE II**  
+- Built scalable financial & operational dashboards using React & Next.js  
+- Designed resilient UI architectures and reusable framework-level components  
+- Implemented secure authentication, RBAC, and workflow-driven UIs  
+- Modernized core pages and shipped cross-app UI SDKs  
 
-**Retail + Forecasting Dashboards**  
-- Engineered complex UI with multi-table sync, shared headers, infinite scroll  
-- Improved demand visibility and reduced inventory wastage  
-- Built high-performance PO filters, decoupled pincode–city logic  
-- Created reusable bulk-upload framework → dev time reduced by **90%**
+### 🔵 **Paytm — Senior Software Engineer**  
+- Led frontend modules for Nagad Wallet (React + Redux)  
+- Built JSON-driven layouts to remove redundant UI wiring  
+- Developed reusable RHF components adopted across teams  
 
-**Homepage + Payment SDK**  
-- Rebuilt homepage via snippet-architecture for faster rollouts  
-- Built cross-app payment gateway SDK for unified user experience
-
----
-
-### 🔵 **Paytm — Senior Software Engineer (2022 – 2023)**  [oai_citation:3‡Gulshan.pdf](sediment://file_00000000335c720987735882628aaee4)  
-- Led key frontend modules for **Nagad Wallet**  
-- Engineered JSON-driven sidebar → removed **80% redundant code**  
-- Built reusable RHF components → reduced repetitive logic by **70%**
-
----
-
-### 🟠 **Sopra Steria — Senior Software Engineer (2018 – 2022)**  [oai_citation:4‡Gulshan.pdf](sediment://file_00000000335c720987735882628aaee4)  
-- Built SPA components using React, Redux, Styled Components  
-- Improved page performance with lazy loading & bundle optimization  
-- Handled COBOL, JCL, VSAM production issues during legacy tenure
+### 🟠 **Sopra Steria — Senior Software Engineer**  
+- Developed SPA components, optimized performance with lazy loading & bundling  
+- Resolved production issues across COBOL, JCL, and legacy systems  
 
 ---
 
 ## 🧠 Skills
 
-### **Languages & Core Skills**
-JavaScript • TypeScript • Data Structures • Problem Solving
+### **Languages**
+JavaScript • TypeScript • Data Structures  
 
-### **Frontend Technology**
-React • Next.js • Redux Toolkit • TailwindCSS • React Query • RHF
+### **Frontend Technologies**
+React • Next.js • Redux Toolkit • TailwindCSS • React Query • RHF  
 
 ### **Familiar**
-Node.js • Python • MySQL • AWS • Docker
-
----
-
-## 📚 Education
-**B.Tech (CSE)** – Kurukshetra University, JMIT Radaur (2014-2018)  
-**DPS Hisar** – Higher Secondary (2014)
+Python • Node.js • MySQL • AWS • Docker  
 
 ---
 
 ## 🎯 Interests
-- 🎨 Drawing, Sketching, Creative Arts  
-- 📚 Manga & Anime  
-- 🧩 System Design (Frontend LLD)  
+🎨 Arts & Craft • ✍️ Sketching • 📖 Manga & Anime
 
 ---
 
@@ -123,10 +87,10 @@ Node.js • Python • MySQL • AWS • Docker
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code-gj&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-gj&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-gj&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=code-gj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-✨ *Crafted with clean code, scalable systems, and frontend passion.*
+✨ *Crafted with clean code, scalable systems, and a passion for frontend engineering.*
