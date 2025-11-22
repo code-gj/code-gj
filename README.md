@@ -104,8 +104,8 @@ Python • Node.js • MySQL • AWS • Docker
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-gj&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=code-gj&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-phi-seven.vercel.app/api?username=code-gj&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-phi-seven.vercel.app/api/top-langs/?username=code-gj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
