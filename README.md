@@ -1,94 +1,116 @@
-<!-- Logo (dark-theme friendly; replace if needed) -->
+<!-- Logo -->
 <p align="center">
-  <img src="https://gjangra.uiblock.in/favicon.svg" width="120" alt="Logo" />
+  <img src="https://gjangra.uiblock.in/favicon.svg" width="130" alt="Logo" />
 </p>
 
-<h1 align="center" style="color:#8AB4F8;">Hi, I'm <b>Gulshan Jangra</b> 👋</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #6EE7B7, #3B82F6, #A855F7); -webkit-background-clip: text; color: transparent;">
+    Hi, I'm Gulshan Jangra ✨
+  </span>
+</h1>
+
 <p align="center">
-  <b>Senior Frontend Engineer • React & Next.js • UI Engineering • Design Systems</b>
+  <b style="color:#9ca3af;">Senior Frontend Engineer • UI Architect • React & Next.js Specialist</b>
 </p>
 
 ---
 
-## 🎨 About Me
+<div align="center">
+  
+![divider](https://github.com/kyechan99/capsule-render/blob/master/src/images/matrix.gif?raw=true)
 
-I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, specializing in architecting reliable dashboards, resilient frontend systems, and scalable UI platforms that streamline finance and operational processes across the organization.
+</div>
 
-I focus on solving complex UI problems through:
+## ✨ About Me
+
+I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, specializing in architecting **reliable dashboards**,  
+**resilient frontend systems**, and **scalable UI platforms** that power critical operational workflows.
+
+I care about:
 
 - ⚛️ **React, Next.js, TypeScript**  
-- 🧠 **Frontend Architecture & Low-Level Design**  
-- 🧩 **Reusable Component Systems & UI Platforms**  
-- ⚡ **High-performance UI & Web Optimization**  
+- 🧠 **Frontend Architecture & LLD**  
+- 🧩 **Reusable Component Systems**  
+- 🚀 **High-performance UI optimizations**  
+- 🎨 **Developer experience & clean design**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📦 **@uiblock/hooks**
-A production-ready library of reusable **React custom hooks** built with TypeScript.  
-🌐 **Docs:** https://hooks.uiblock.in  
+A modern library of reusable **React custom hooks** with excellent DX.  
+🔗 **Docs:** https://hooks.uiblock.in  
 📦 **NPM:** https://www.npmjs.com/package/@uiblock/hooks
 
 ---
 
 ### 🎛 **UIBlock – React Component Library**  
-A modern component library built using **TypeScript + TailwindCSS**.  
-🌐 **Docs:** https://uiblock.in  
+A scalable UI library built with **TypeScript + TailwindCSS**.  
+🔗 **Docs:** https://uiblock.in  
 📦 **NPM:** https://www.npmjs.com/package/@uiblock/ui
 
 ---
 
-### ✍️ **LLD in Frontend Development — Article**  
-A practical guide to low-level design in frontend engineering.  
+### ✍️ **Frontend Low-Level Design (LLD)**  
+A complete guide to LLD for frontend developers.  
 🔗 https://medium.com/@uisculptor/low-level-design-lld-in-frontend-development-a-complete-guide-with-examples-b3bbcb36139a
 
 ---
 
-## 💼 Work Experience
+<div align="center">
+  
+![glitch](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-### 🟣 **Blinkit — SDE II**  
-- Built scalable financial & operational dashboards using React & Next.js  
-- Designed resilient UI architectures and reusable framework-level components  
-- Implemented secure authentication, RBAC, and workflow-driven UIs  
-- Modernized core pages and shipped cross-app UI SDKs  
+</div>
 
 ---
 
-### 🔵 **Paytm — Senior Software Engineer**  
-- Led frontend modules for Nagad Wallet (React + Redux)  
-- Built JSON-driven layouts to remove redundant UI wiring  
-- Developed reusable RHF components adopted across teams  
+## 🖥️ Work Experience
+
+### 🟣 **Blinkit — SDE II**
+- Built scalable dashboards with React & Next.js  
+- Architected resilient UI systems + reusable frameworks  
+- Implemented RBAC, secure workflows, and internal UI SDKs  
+- Modernized core surfaces with modular architecture  
 
 ---
 
-### 🟠 **Sopra Steria — Senior Software Engineer**  
-- Developed SPA components, optimized performance with lazy loading & bundling  
-- Resolved production issues across COBOL, JCL, and legacy systems  
+### 🔵 **Paytm — Senior Software Engineer**
+- Led frontend modules for Nagad Wallet  
+- Built JSON-driven UI layouts  
+- Developed reusable RHF components adopted org-wide  
+
+---
+
+### 🟠 **Sopra Steria — Senior Software Engineer**
+- Delivered SPA features with React + Redux  
+- Improved performance via lazy loading & optimizations  
+- Resolved production issues in legacy COBOL systems  
 
 ---
 
 ## 🧠 Skills
 
-### **Languages**
-JavaScript • TypeScript • Data Structures  
-
-### **Frontend Technologies**
-React • Next.js • Redux Toolkit • TailwindCSS • React Query • RHF  
-
-### **Familiar**
-Python • Node.js • MySQL • AWS • Docker  
+🟦 **Languages:** JavaScript • TypeScript  
+🟩 **Core:** React • Next.js • Redux Toolkit • RHF • React Query  
+🟪 **Styling:** TailwindCSS • Styled Components  
+🟫 **Backend Familiar:** Node.js • Python • MySQL  
+🟧 **Infra:** AWS • Docker  
 
 ---
 
 ## 🎯 Interests
-🎨 Arts & Crafts • ✍️ Sketching • 📖 Manga & Anime
+
+🎨 Arts & Crafts  
+✍️ Sketching  
+📖 Manga & Anime  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:gulshan.jangra008@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -102,7 +124,7 @@ Python • Node.js • MySQL • AWS • Docker
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark + Animated Aura)
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=code-gj&theme=tokyonight" />
@@ -112,6 +134,14 @@ Python • Node.js • MySQL • AWS • Docker
   <img height="180" src="https://stats.dooboo.io/api/github-stats?login=code-gj&theme=tokyonight" />
 </p>
 
+<div align="center">
+  
+![divider](https://github.com/kyechan99/capsule-render/blob/master/src/images/matrix.gif?raw=true)
+
+</div>
+
 ---
 
-✨ *Crafted with clean code, scalable systems, and a passion for frontend engineering.*
+<p align="center">
+  <i style="color:#9ca3af;">✨ Crafted with clean code, neon aesthetics, and frontend precision ✨</i>
+</p>
