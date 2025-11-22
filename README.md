@@ -1,6 +1,6 @@
 <!-- Logo (replace with GitHub-hosted path if needed) -->
 <p align="center">
-  <img src="https://custom-hook-docs-hge5.vercel.app/logo.svg" width="120" alt="Logo" />
+  <img src="https://gjangra.uiblock.in/favicon.svg" width="120" alt="Logo" />
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#4F46E5;">Gulshan Jangra</span> 👋</h1>
