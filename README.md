@@ -94,18 +94,11 @@ Node.js • Python • MySQL • AWS • Docker
 
 ---
 
-# 🎓 Education
-**B.Tech (CSE)** — Kurukshetra University  
-**DPS Hisar** — Higher Secondary  
-
----
-
 # ⚡ Interests
 🎨 Arts  
 ✍️ Sketching  
 📖 Manga  
-🧬 Anime  
-💠 Frontend System Design  
+🧬 Anime    
 
 ---
 
@@ -130,16 +123,6 @@ Node.js • Python • MySQL • AWS • Docker
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=code-gj&theme=neon-dark&hide_border=true&background=00000000" height="160" />
 </p>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=code-gj&theme=dark" height="180" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/src/images/cyberpunk.gif?raw=true" width="100%" />
-</div>
 
 <p align="center">
   <i style="color:#0ff;">⚡ Designed in neon. Written in TypeScript. Rendered in the future. ⚡</i>
