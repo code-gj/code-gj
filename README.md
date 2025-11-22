@@ -25,16 +25,17 @@ I focus on solving complex UI problems through:
 
 ## 🚀 Featured Projects
 
-### 📦 **@uiblock/custom-hook**
+### 📦 **@uiblock/hooks**
 A production-ready library of reusable **React custom hooks** built with TypeScript.  
-🌐 **Docs:** https://custom-hook-docs-hge5.vercel.app  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/custom-hook
+🌐 **Docs:** https://hooks.uiblock.in  
+📦 **NPM:** https://www.npmjs.com/package/@uiblock/hooks
 
 ---
 
 ### 🎛 **UIBlock – React Component Library**  
 A modern component library built using **TypeScript + TailwindCSS**.  
-🔗 https://uiblock.in
+🌐 **Docs:** https://uiblock.in  
+📦 **NPM:** https://www.npmjs.com/package/@uiblock/ui
 
 ---
 
