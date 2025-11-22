@@ -1,3 +1,13 @@
+<!-- Logo (replace with GitHub-hosted path if needed) -->
+<p align="center">
+  <img src="https://custom-hook-docs-hge5.vercel.app/logo.svg" width="120" alt="Logo" />
+</p>
+
+<h1 align="center">Hi, I'm <span style="color:#4F46E5;">Gulshan Jangra</span> 👋</h1>
+<p align="center">
+  <b>Senior Frontend Engineer • React & Next.js • UI Engineering • Design Systems</b>
+</p>
+
 ---
 
 ## 🎨 About Me
@@ -6,33 +16,30 @@ I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, specializing in arch
 
 I focus on solving complex UI problems through:
 
-- ⚛️ **React, Next.js, TypeScript**
-- 🧠 **Frontend Architecture & Low-Level Design**
-- 🧩 **Reusable Component Systems & UI Platforms**
-- ⚡ **High-performance UI & Web Optimization**
-
-I enjoy building robust systems that balance performance, usability, and maintainability.
+- ⚛️ **React, Next.js, TypeScript**  
+- 🧠 **Frontend Architecture & Low-Level Design**  
+- 🧩 **Reusable Component Systems & UI Platforms**  
+- ⚡ **High-performance UI & Web Optimization**  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 **@uiblock/hooks**
-A modern, production-ready collection of reusable **React custom hooks** built with TypeScript.  
-🌐 **Docs:** https://hooks.uiblock.in  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/hooks
+### 📦 **@uiblock/custom-hook**
+A production-ready library of reusable **React custom hooks** built with TypeScript.  
+🌐 **Docs:** https://custom-hook-docs-hge5.vercel.app  
+📦 **NPM:** https://www.npmjs.com/package/@uiblock/custom-hook
 
 ---
 
 ### 🎛 **UIBlock – React Component Library**  
-A flexible, scalable component library designed with **TypeScript + TailwindCSS** to build modern and accessible UIs.  
-🌐 **Docs:** https://uiblock.in  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/ui
+A modern component library built using **TypeScript + TailwindCSS**.  
+🔗 https://uiblock.in
 
 ---
 
-### ✍️ **Low-Level Design in Frontend — Article**  
-A comprehensive guide to LLD for frontend developers, with real-world examples and practical templates.  
+### ✍️ **LLD in Frontend Development — Article**  
+A practical guide to low-level design in frontend engineering.  
 🔗 https://medium.com/@uisculptor/low-level-design-lld-in-frontend-development-a-complete-guide-with-examples-b3bbcb36139a
 
 ---
@@ -45,10 +52,14 @@ A comprehensive guide to LLD for frontend developers, with real-world examples a
 - Implemented secure authentication, RBAC, and workflow-driven UIs  
 - Modernized core pages and shipped cross-app UI SDKs  
 
+---
+
 ### 🔵 **Paytm — Senior Software Engineer**  
 - Led frontend modules for Nagad Wallet (React + Redux)  
 - Built JSON-driven layouts to remove redundant UI wiring  
 - Developed reusable RHF components adopted across teams  
+
+---
 
 ### 🟠 **Sopra Steria — Senior Software Engineer**  
 - Developed SPA components, optimized performance with lazy loading & bundling  
@@ -69,8 +80,14 @@ Python • Node.js • MySQL • AWS • Docker
 
 ---
 
+## 📚 Education
+**B.Tech (CSE)** – Kurukshetra University, JMIT Radaur  
+**Higher Secondary** – Delhi Public School, Hisar  
+
+---
+
 ## 🎯 Interests
-🎨 Arts & Craft • ✍️ Sketching • 📖 Manga & Anime
+🎨 Arts & Crafts • ✍️ Sketching • 📖 Manga & Anime • 🧩 Frontend LLD  
 
 ---
 
