@@ -1,147 +1,146 @@
-<!-- Logo -->
+<!-- ======= CYBERPUNK LOGO ======= -->
 <p align="center">
-  <img src="https://gjangra.uiblock.in/favicon.svg" width="130" alt="Logo" />
+  <img src="https://gjangra.uiblock.in/favicon.svg" width="150" style="filter: drop-shadow(0 0 12px #0ff);" />
 </p>
 
+<!-- ======= GLITCH TITLE ======= -->
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #6EE7B7, #3B82F6, #A855F7); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Gulshan Jangra ✨
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00F0FF&center=true&vCenter=true&width=500&lines=Gulshan+Jangra;Frontend+Engineer;UI+Architect;React+%26+Next.js+Specialist;Cyberpunk+Mode+Activated" />
 </h1>
 
 <p align="center">
-  <b style="color:#9ca3af;">Senior Frontend Engineer • UI Architect • React & Next.js Specialist</b>
+  <b style="color:#7dd3fc;">Senior Frontend Engineer • Scalable UI Architect • Design Systems</b>
 </p>
 
 ---
 
-<div align="center">
-  
-![divider](https://github.com/kyechan99/capsule-render/blob/master/src/images/matrix.gif?raw=true)
+# 🎛 **About Me**
 
-</div>
+I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, crafting  
+**scalable, resilient, futuristic frontend architectures** that power operational workflows.
 
-## ✨ About Me
+Things I breathe:
 
-I'm a **Senior Software Engineer (SDE-II)** at **Blinkit**, specializing in architecting **reliable dashboards**,  
-**resilient frontend systems**, and **scalable UI platforms** that power critical operational workflows.
-
-I care about:
-
-- ⚛️ **React, Next.js, TypeScript**  
-- 🧠 **Frontend Architecture & LLD**  
-- 🧩 **Reusable Component Systems**  
-- 🚀 **High-performance UI optimizations**  
-- 🎨 **Developer experience & clean design**  
+🚀 React, Next.js, TypeScript  
+🧠 Frontend LLD, System Design  
+🎛 UI Platforms & Component Systems  
+⚡ High-Performance Rendering  
+🟣 DX + Architecture + Automation  
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 **Featured Projects**
 
-### 📦 **@uiblock/hooks**
-A modern library of reusable **React custom hooks** with excellent DX.  
-🔗 **Docs:** https://hooks.uiblock.in  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/hooks
-
----
-
-### 🎛 **UIBlock – React Component Library**  
-A scalable UI library built with **TypeScript + TailwindCSS**.  
-🔗 **Docs:** https://uiblock.in  
-📦 **NPM:** https://www.npmjs.com/package/@uiblock/ui
+## 🧩 **@uiblock/hooks** — _Neon Hook Engine_
+<span style="color:#0ff;">A modern, DX-focused React hooks library.</span>  
+🔗 https://hooks.uiblock.in  
+📦 https://www.npmjs.com/package/@uiblock/hooks  
 
 ---
 
-### ✍️ **Frontend Low-Level Design (LLD)**  
-A complete guide to LLD for frontend developers.  
+## 🎨 **UIBlock — React Component Library**
+Cyberpunk-grade components built with **TS + TailwindCSS**.  
+🔗 https://uiblock.in  
+📦 https://www.npmjs.com/package/@uiblock/ui  
+
+---
+
+## 📝 **Frontend LLD — The Definitive Guide**  
+A practical guide for real-world low-level design in frontend systems.  
 🔗 https://medium.com/@uisculptor/low-level-design-lld-in-frontend-development-a-complete-guide-with-examples-b3bbcb36139a
 
 ---
 
 <div align="center">
-  
-![glitch](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
 
-## 🖥️ Work Experience
+# 🧠 Skills
 
-### 🟣 **Blinkit — SDE II**
-- Built scalable dashboards with React & Next.js  
-- Architected resilient UI systems + reusable frameworks  
-- Implemented RBAC, secure workflows, and internal UI SDKs  
-- Modernized core surfaces with modular architecture  
+### ⚔ Core
+JavaScript • TypeScript • React • Next.js • Redux Toolkit • React Query
 
----
+### 🎛 UI Engineering
+TailwindCSS • Styled Components • Component Libraries • Design Systems
 
-### 🔵 **Paytm — Senior Software Engineer**
-- Led frontend modules for Nagad Wallet  
-- Built JSON-driven UI layouts  
-- Developed reusable RHF components adopted org-wide  
+### 🛰 Backend Familiar
+Node.js • Python • MySQL • AWS • Docker
 
 ---
 
-### 🟠 **Sopra Steria — Senior Software Engineer**
-- Delivered SPA features with React + Redux  
-- Improved performance via lazy loading & optimizations  
-- Resolved production issues in legacy COBOL systems  
+# 🛠 Work Experience (Cyberpunk Edition)
+
+## 🟣 Blinkit — SDE II
+- Architected futuristic dashboard ecosystems  
+- Built resilient UI workflows + reusable frameworks  
+- Implemented RBAC + secure UI pipelines  
+- Modernized core surfaces into modular systems  
 
 ---
 
-## 🧠 Skills
-
-🟦 **Languages:** JavaScript • TypeScript  
-🟩 **Core:** React • Next.js • Redux Toolkit • RHF • React Query  
-🟪 **Styling:** TailwindCSS • Styled Components  
-🟫 **Backend Familiar:** Node.js • Python • MySQL  
-🟧 **Infra:** AWS • Docker  
+## 🔵 Paytm — Senior Software Engineer
+- Engineered JSON-driven UIs  
+- Created reusable RHF components  
+- Boosted dev velocity and reduced redundant UI logic  
 
 ---
 
-## 🎯 Interests
+## 🟠 Sopra Steria — Senior Software Engineer
+- SPA development (React, Redux)  
+- Performance optimization + lazy loading  
+- Solved issues in legacy systems (COBOL, JCL, VSAM)  
 
-🎨 Arts & Crafts  
+---
+
+# 🎓 Education
+**B.Tech (CSE)** — Kurukshetra University  
+**DPS Hisar** — Higher Secondary  
+
+---
+
+# ⚡ Interests
+🎨 Arts  
 ✍️ Sketching  
-📖 Manga & Anime  
+📖 Manga  
+🧬 Anime  
+💠 Frontend System Design  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:gulshan.jangra008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gjangra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/code-gj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Dark + Animated Aura)
+# 📊 Cyberpunk GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=code-gj&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-gj&theme=neon-dark&hide_border=true&background=00000000" height="160" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://stats.dooboo.io/api/github-stats?login=code-gj&theme=tokyonight" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=code-gj&theme=dark" height="180" />
 </p>
-
-<div align="center">
-  
-![divider](https://github.com/kyechan99/capsule-render/blob/master/src/images/matrix.gif?raw=true)
-
-</div>
 
 ---
 
+<div align="center">
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/src/images/cyberpunk.gif?raw=true" width="100%" />
+</div>
+
 <p align="center">
-  <i style="color:#9ca3af;">✨ Crafted with clean code, neon aesthetics, and frontend precision ✨</i>
+  <i style="color:#0ff;">⚡ Designed in neon. Written in TypeScript. Rendered in the future. ⚡</i>
 </p>
