@@ -102,7 +102,7 @@ Python • Node.js • MySQL • AWS • Docker
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=code-gj&theme=tokyonight" />
