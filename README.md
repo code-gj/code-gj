@@ -104,8 +104,11 @@ Python • Node.js • MySQL • AWS • Docker
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/code-gj?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/code-gj?style=for-the-badge&logo=github" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=code-gj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://stats.dooboo.io/api/github-stats?login=code-gj&theme=tokyonight" />
 </p>
 
 ---
